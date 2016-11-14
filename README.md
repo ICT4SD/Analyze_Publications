@@ -12,3 +12,5 @@ The first objective for this project is to analyze the publications of the Depar
 DESA's publications are not currently available as a easy download, but they can be found here:
 
 [DESA Publications](http://www.un.org/en/development/desa/publications/index.html)
+
+[World Economic and Social Survey All issues since 1948](http://www.un.org/en/development/desa/policy/wess/archive.shtml)
